@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Estudos - Formulários</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+    <!-- Form que envia uma requisição POST -->
+    <form action="" method="post">
+        <label for="POST-name">Name:</label>
+        <input id="POST-name" type="text" name="name">
+        <input type="submit" value="Save">
+    </form>
+
+    <!-- Simple form which will send a POST request -->
+    <form action="" method="post">
+        <label for="POST-name">Name:</label>
+        <input id="POST-name" type="text" name="name">
+        <input type="submit" value="Save">
+    </form>
+
+    <!-- Form with fieldset, legend, and label -->
+    <form action="" method="post">
+        <fieldset>
+            <legend>Title</legend>
+            <input type="radio" name="radio" id="radio"> <label for="radio">Click me</label>
+        </fieldset>
+    </form>
+</body>
+
+</html>

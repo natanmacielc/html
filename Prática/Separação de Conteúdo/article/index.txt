@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Estudos - Separação de Conteúdo
+        </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <style>
+            article {
+  display: block;
+}
+        </style>
+    </head>
+    <body>
+        <article>
+            <h4>Um artigo realmente impressionante</h4>
+            <p>Lotes de texto incrível.</p>
+          </article>
+    </body>
+</html>

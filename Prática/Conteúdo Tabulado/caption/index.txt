@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Estudos - Conteúdo Tabulado </title>
+    <meta http-equiv="Content-Type" content="text/html charset=utf-8">
+    <style>
+        caption {
+            caption-side: top;
+            align: right;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0px;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <caption>Exemplo de título</caption>
+        <tr>
+            <th>Login</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>usuario1</td>
+            <td>usuario1@dominio.com</td>
+        </tr>
+        <tr>
+            <td>usuario2</td>
+            <td>usuario2@dominio.com</td>
+        </tr>
+    </table>
+</body>
+
+</html>

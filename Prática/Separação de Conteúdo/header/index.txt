@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Estudos - Separação de Conteúdo
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<article>
+    <header>
+        <h1>A heading here</h1>
+        <p>Posted by Natan Maciel</p>
+        <p>Some additional information here</p>
+    </header>
+    <p>Lorem Ipsum dolor set amet....</p>
+</article>
+</body>
+
+</html>

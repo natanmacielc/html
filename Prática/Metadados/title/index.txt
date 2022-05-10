@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Estudos - Metadados</title>
+</head>
+
+<body>
+    Estudos - Metadados.
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Estudos - Conteúdo Textual</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+    <ul>
+        <li>primeiro item</li>
+        <li>segundo item</li>
+        <li>terceiro item</li>
+    </ul>
+</body>
+
+</html>

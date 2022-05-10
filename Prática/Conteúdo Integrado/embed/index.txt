@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Estudos - Conteúdo Integrado </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+    <embed type="video/webm"
+    src="./static/WIN_20220508_11_02_12_Pro.mp4"
+    width="250"
+    height="200">
+</body>
+
+</html>

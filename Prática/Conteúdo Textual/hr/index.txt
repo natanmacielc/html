@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Estudos - Conteúdo Textual</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+    <p>Este é o primeiro parágrafo do texto. Este é o primeiro parágrafo do texto.
+        Este é o primeiro parágrafo do texto. Este é o primeiro parágrafo do texto.</p>
+
+    <hr>
+
+    <p>Este é o segundo parágrafo do texto. Este é o segundo parágrafo do texto.
+        Este é o segundo parágrafo do texto. Este é o segundo parágrafo do texto.</p>
+</body>
+
+</html>

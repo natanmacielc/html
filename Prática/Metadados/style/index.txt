@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+  h1 {color:red;}
+  p {color:blue;}
+</style>
+</head>
+<body>
+
+<h1>Estudos - Metadados</h1>
+<p>Estudos - Metadados.</p>
+
+</body>
+</html>
